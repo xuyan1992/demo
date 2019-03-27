@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Class-Path: netty-codec-4.0.27.Final.jar ribbon-loadbalancer-2.2.0.jar
+  commons-configuration-1.8.jar classmate-1.3.3.jar spring-cloud-netfl
+ ix-eureka-client-1.1.5.RELEASE.jar log4j-over-slf4j-1.7.25.jar xpp3_m
+ in-1.1.4c.jar jettison-1.3.7.jar commons-collections-3.2.2.jar hibern
+ ate-entitymanager-5.0.12.Final.jar springfox-core-2.7.0.jar springfox
+ -swagger-ui-2.7.0.jar rxjava-1.1.5.jar commons-lang-2.6.jar rxnetty-c
+ ontexts-0.4.9.jar jackson-annotations-2.8.0.jar jcl-over-slf4j-1.7.25
+ .jar spring-boot-1.5.4.RELEASE.jar hibernate-validator-5.3.5.Final.ja
+ r commons-codec-1.10.jar logback-core-1.1.11.jar commons-logging-1.1.
+ 1.jar netty-transport-native-epoll-4.0.27.Final.jar spring-boot-start
+ er-tomcat-1.5.4.RELEASE.jar archaius-core-0.7.4.jar reflections-0.9.1
+ 1.jar tomcat-embed-el-8.5.15.jar governator-core-1.12.10.jar aspectjw
+ eaver-1.8.10.jar stax2-api-3.1.4.jar aws-java-sdk-autoscaling-1.11.18
+ .jar jersey-core-1.19.1.jar spring-cloud-commons-1.1.1.RELEASE.jar sp
+ ring-core-4.3.9.RELEASE.jar servo-internal-0.10.1.jar slf4j-api-1.7.2
+ 5.jar spring-cloud-starter-1.1.1.RELEASE.jar jul-to-slf4j-1.7.25.jar 
+ hystrix-core-1.5.3.jar antlr-2.7.7.jar spring-data-jpa-1.11.4.RELEASE
+ .jar HdrHistogram-2.1.7.jar spring-expression-4.3.9.RELEASE.jar sprin
+ g-context-4.3.9.RELEASE.jar springfox-spi-2.7.0.jar jackson-databind-
+ 2.8.8.jar governator-api-1.12.10.jar spring-security-rsa-1.0.1.RELEAS
+ E.jar guice-4.0.jar aws-java-sdk-core-1.11.18.jar httpclient-4.5.3.ja
+ r bcpkix-jdk15on-1.47.jar jersey-apache-client4-1.19.1.jar spring-boo
+ t-starter-web-1.5.4.RELEASE.jar swagger-models-1.5.13.jar aws-java-sd
+ k-sts-1.11.18.jar mapstruct-jdk8-1.2.0.Beta2.jar aopalliance-1.0.jar 
+ spring-data-commons-1.13.4.RELEASE.jar asm-5.0.4.jar springfox-schema
+ -2.7.0.jar logback-classic-1.1.11.jar stax-api-1.0-2.jar spring-cloud
+ -netflix-core-1.1.5.RELEASE.jar spring-boot-starter-jdbc-1.5.4.RELEAS
+ E.jar swagger-annotations-1.5.13.jar spring-aspects-4.3.9.RELEASE.jar
+  netflix-eventbus-0.3.0.jar ribbon-eureka-2.2.0.jar snakeyaml-1.17.ja
+ r httpcore-4.4.6.jar ribbon-transport-2.2.0.jar netty-common-4.0.27.F
+ inal.jar tomcat-jdbc-8.5.15.jar rxnetty-servo-0.4.9.jar spring-web-4.
+ 3.9.RELEASE.jar javax.transaction-api-1.2.jar jackson-dataformat-cbor
+ -2.8.8.jar netty-transport-4.0.27.Final.jar spring-orm-4.3.9.RELEASE.
+ jar spring-webmvc-4.3.9.RELEASE.jar spring-cloud-starter-ribbon-1.1.5
+ .RELEASE.jar mapstruct-processor-1.2.0.Beta2.jar xmlpull-1.1.3.1.jar 
+ servo-core-0.10.1.jar springfox-swagger-common-2.7.0.jar aws-java-sdk
+ -route53-1.11.18.jar hibernate-core-5.0.12.Final.jar tomcat-embed-cor
+ e-8.5.15.jar tomcat-juli-8.5.15.jar ribbon-httpclient-2.2.0.jar sprin
+ g-cloud-starter-archaius-1.1.5.RELEASE.jar hibernate-jpa-2.1-api-1.0.
+ 0.Final.jar governator-1.12.10.jar springfox-spring-web-2.7.0.jar tom
+ cat-embed-websocket-8.5.15.jar spring-boot-starter-aop-1.5.4.RELEASE.
+ jar mapstruct-1.1.0.Final.jar javax.inject-1.jar spring-cloud-starter
+ -eureka-1.1.5.RELEASE.jar spring-boot-starter-1.5.4.RELEASE.jar sprin
+ g-jdbc-4.3.9.RELEASE.jar jsr311-api-1.1.1.jar spring-boot-actuator-1.
+ 5.4.RELEASE.jar stax-api-1.0.1.jar byte-buddy-1.6.14.jar mysql-connec
+ tor-java-5.1.42.jar hibernate-commons-annotations-5.0.1.Final.jar net
+ ty-handler-4.0.27.Final.jar netflix-statistics-0.1.1.jar springfox-sw
+ agger2-2.7.0.jar eureka-core-1.4.10.jar netty-buffer-4.0.27.Final.jar
+  jandex-2.0.0.Final.jar bcprov-jdk15on-1.47.jar rxnetty-0.4.9.jar dom
+ 4j-1.6.1.jar spring-security-crypto-4.2.3.RELEASE.jar ribbon-2.2.0.ja
+ r javassist-3.21.0-GA.jar spring-boot-starter-data-jpa-1.5.4.RELEASE.
+ jar aws-java-sdk-ec2-1.11.18.jar spring-plugin-metadata-1.2.0.RELEASE
+ .jar spring-boot-starter-logging-1.5.4.RELEASE.jar spring-aop-4.3.9.R
+ ELEASE.jar jboss-logging-3.3.1.Final.jar guava-18.0.jar netflix-commo
+ ns-util-0.1.1.jar eureka-client-1.4.10.jar netty-codec-http-4.0.27.Fi
+ nal.jar spring-beans-4.3.9.RELEASE.jar spring-plugin-core-1.2.0.RELEA
+ SE.jar spring-tx-4.3.9.RELEASE.jar woodstox-core-asl-4.4.1.jar spring
+ -cloud-context-1.1.1.RELEASE.jar jersey-client-1.19.1.jar validation-
+ api-1.1.0.Final.jar lombok-1.16.16.jar ribbon-core-2.2.0.jar xstream-
+ 1.4.2.jar jackson-core-2.8.8.jar spring-boot-autoconfigure-1.5.4.RELE
+ ASE.jar
+Main-Class: com.demo.DemoApplication
+
