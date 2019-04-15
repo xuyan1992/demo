@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @SpringBootApplication
 @EnableJpaAuditing
 @EnableCaching
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 public class DemoApplication {
 
 	public static void main(String[] args) {
